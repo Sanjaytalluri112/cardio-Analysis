@@ -1,4 +1,4 @@
-# Cardio Risk Assessment
+# Cardio Risk Analysis
 
 A machine learning-based cardiovascular risk assessment project that predicts the likelihood of heart disease from clinical patient data.
 
